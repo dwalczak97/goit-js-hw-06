@@ -1,7 +1,7 @@
 class Storage {
   #items;
 
-  constructor(items) {
+  constructor() {
     this.#items = items;
   }
 
